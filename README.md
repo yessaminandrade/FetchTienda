@@ -1,22 +1,21 @@
 # FetchTienda
 # EjercicioProductos
 
-Tareas por realizar: 
 
-1. Modificar la primer lista.
-2. Modificar la segunda lista.
-3. Probar los métodos de elementos (no HTML).
+Este proyecto muestra una página web que consume datos de la [Fake Store API](https://fakestoreapi.com/) y presenta productos en tarjetas dinámicas.
+Cada producto incluye un botón que permite ver información detallada en un modal. El diseño es responsivo y las tarjetas se organizan automáticamente en filas.
 
----
 
-Código para actualizar el repositorio.
-```
-git status
-git add . 
-git commit -m "mensaje"
-git push origin main
-```
->Vista previa del index.html
+Tecnologías utilizadas:
+JavaScript
+HTML
+Bootstrap
 
-![index](https://raw.githubusercontent.com/yessaminandrade/EjercicioDOM/refs/heads/main/images/Screenshot%202025-04-08%20104231.png)
+
+
+![index](https://raw.githubusercontent.com/yessaminandrade/FetchTienda/refs/heads/main/images/Screenshot%202025-04-11%20154300.png)
+
+![modal](https://raw.githubusercontent.com/yessaminandrade/FetchTienda/refs/heads/main/images/Screenshot%202025-04-11%20154515.png)
+
+
 
